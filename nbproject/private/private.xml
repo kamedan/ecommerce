@@ -3,14 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/A:/xampp/htdocs/ecommerce/src/Utilisateurs/UtilisateursBundle/Entity/Utilisateurs.php</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/app/config/security.yml</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig</file>
             <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/layout.html.twig</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/src/Ecommerce/EcommerceBundle/Resources/views/Default/panier/layout/livraison.html.twig</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/src/Utilisateurs/UtilisateursBundle/Resources/config/routing.yml</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/app/AppKernel.php</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/app/config/config.yml</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/src/Utilisateurs/UtilisateursBundle/Controller/DefaultController.php</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/ChangePassword/changePassword_content.html.twig</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/src/Utilisateurs/UtilisateursBundle/Resources/views/Default/modulesUsed/utilisateurs.html.twig</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/src/Utilisateurs/UtilisateursBundle/Resources/views/Default/modulesUsed/utilisateursConnecte.html.twig</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/Security/login.html.twig</file>
         </group>
     </open-files>
 </project-private>
