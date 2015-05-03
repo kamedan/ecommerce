@@ -3,13 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/layout.html.twig</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/ChangePassword/changePassword_content.html.twig</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/src/Utilisateurs/UtilisateursBundle/Resources/views/Default/modulesUsed/utilisateurs.html.twig</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/src/Utilisateurs/UtilisateursBundle/Resources/views/Default/modulesUsed/utilisateursConnecte.html.twig</file>
-            <file>file:/A:/xampp/htdocs/ecommerce/app/Resources/FOSUserBundle/views/Security/login.html.twig</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/src/Ecommerce/EcommerceBundle/DataFixtures/ORM/TvaData.php</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/src/Ecommerce/EcommerceBundle/DataFixtures/ORM/ProduitsData.php</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/src/Ecommerce/EcommerceBundle/DataFixtures/ORM/UtilisateurData.php</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/src/Ecommerce/EcommerceBundle/DataFixtures/ORM/CategorieData.php</file>
+            <file>file:/A:/xampp/htdocs/ecommerce/src/Ecommerce/EcommerceBundle/DataFixtures/ORM/MediaData.php</file>
         </group>
     </open-files>
 </project-private>

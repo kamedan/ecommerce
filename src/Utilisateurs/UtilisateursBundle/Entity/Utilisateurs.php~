@@ -45,11 +45,11 @@ class Utilisateurs extends BaseUser
     /**
      * Add commande
      *
-     * @param \Ecommerce\EcommerceBundle\Entity\Commandes $commande
+     * @param \Ecommerce\EcommerceBundle\Entity\Commande $commande
      *
      * @return Utilisateurs
      */
-    public function addCommande(\Ecommerce\EcommerceBundle\Entity\Commandes $commande)
+    public function addCommande(\Ecommerce\EcommerceBundle\Entity\Commande $commande)
     {
         $this->commandes[] = $commande;
 
@@ -59,9 +59,9 @@ class Utilisateurs extends BaseUser
     /**
      * Remove commande
      *
-     * @param \Ecommerce\EcommerceBundle\Entity\Commandes $commande
+     * @param \Ecommerce\EcommerceBundle\Entity\Commande $commande
      */
-    public function removeCommande(\Ecommerce\EcommerceBundle\Entity\Commandes $commande)
+    public function removeCommande(\Ecommerce\EcommerceBundle\Entity\Commande $commande)
     {
         $this->commandes->removeElement($commande);
     }
