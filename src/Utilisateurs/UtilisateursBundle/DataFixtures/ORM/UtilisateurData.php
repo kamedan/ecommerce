@@ -1,6 +1,6 @@
 <?php
 
-namespace Ecommerce\EcommerceBundle\DataFixtures\ORM;
+namespace Utilisateurs\UtilisateursBundle\DataFixtures\ORM;
 
 use Doctrine\Common\DataFixtures\AbstractFixture;
 use Doctrine\Common\DataFixtures\FixtureInterface;
